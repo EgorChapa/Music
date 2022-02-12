@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\bin\Debug\Music.exe.config
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\bin\Debug\Music.exe
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\bin\Debug\Music.pdb
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\obj\Debug\Music.exe
+C:\Users\student\source\repos\EgorChapa\Music\Music\Music\obj\Debug\Music.pdb
